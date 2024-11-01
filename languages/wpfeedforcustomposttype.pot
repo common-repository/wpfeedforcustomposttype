@@ -1,0 +1,107 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 15:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: wpfeedforcustomposttype.php:127
+msgid "RSS for Custom Posts types"
+msgstr ""
+
+#: wpfeedforcustomposttype.php:127
+msgid "Custom Post RSS"
+msgstr ""
+
+#: wpfeedforcustomposttype.php:196
+msgid "Options updated"
+msgstr ""
+
+#: wpfeedforcustomposttype.php:201
+msgid "RSS Feed Manager for Custom Post Types"
+msgstr ""
+
+#: wpfeedforcustomposttype.php:210
+msgid "Plugin Settings"
+msgstr ""
+
+#: wpfeedforcustomposttype.php:217 wpfeedforcustomposttype.php:225
+msgid "Post Types"
+msgstr ""
+
+#: wpfeedforcustomposttype.php:219 wpfeedforcustomposttype.php:227
+msgid "Selection"
+msgstr ""
+
+#: wpfeedforcustomposttype.php:233
+msgid "Built-in Posts Types"
+msgstr ""
+
+#: wpfeedforcustomposttype.php:242
+msgid "Custom Posts Types"
+msgstr ""
+
+#: wpfeedforcustomposttype.php:257
+msgid "Save Changes"
+msgstr ""
+
+#: wpfeedforcustomposttype.php:276
+msgid "Help & Supports"
+msgstr ""
+
+#: wpfeedforcustomposttype.php:285
+msgid "Other WordPress Plugins"
+msgstr ""
+
+#: wpfeedforcustomposttype.php:321
+msgid "Codeboxr News Updates"
+msgstr ""
+
+#: wpfeedforcustomposttype.php:398
+msgid "Setting"
+msgstr ""
+
+#: wpfeedforcustomposttype.php:421
+msgid "Free Support"
+msgstr ""
+
+#: wpfeedforcustomposttype.php:423
+msgid "Reviews"
+msgstr ""
+
+#: wpfeedforcustomposttype.php:425
+msgid "Documentation"
+msgstr ""
+
+#: wpfeedforcustomposttype.php:427
+msgid "Pro Support"
+msgstr ""
+
+#. Name of the plugin
+msgid "CBX RSS Feed for Custom Post Types"
+msgstr ""
+
+#. Description of the plugin
+msgid "Shows or merges feeds for custom post type with default posts"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://codeboxr.com/product/rss-feed-manager-for-custom-post-types"
+msgstr ""
+
+#. Author of the plugin
+msgid "Codeboxr Team"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://codeboxr.com"
+msgstr ""
